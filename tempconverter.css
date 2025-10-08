@@ -1,0 +1,14 @@
+.converter{
+    margin-top: 100px;
+}
+.button{
+    display: block;
+    padding: 15px 30px;
+    margin-left: 250px;
+    font-weight: lighter;
+}
+#tovalue{
+    text-align: center;
+    font-weight: lighter;
+    background-color: aqua;
+}
